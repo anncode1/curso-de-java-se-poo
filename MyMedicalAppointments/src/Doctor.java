@@ -7,7 +7,6 @@ public class Doctor {
 
     Doctor(){
         System.out.println("Construyendo el Objeto Doctor");
-
     }
 
     Doctor(String name, String speciality){
