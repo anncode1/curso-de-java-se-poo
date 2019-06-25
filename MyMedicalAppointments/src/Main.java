@@ -17,7 +17,6 @@ public class Main {
         }
 
 
-
         System.out.println();
         System.out.println();
         Patient patient = new Patient("Alejandra", "alejandra@mail.com");
