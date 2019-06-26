@@ -8,6 +8,11 @@ public class Nurse extends User{
         super(name, email);
     }
 
+    @Override
+    public void m() {
+
+    }
+
     public String getSpeciality() {
         return speciality;
     }
